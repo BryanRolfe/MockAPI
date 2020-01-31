@@ -1,3 +1,11 @@
 {
-  "test": 1
+  "test": [
+    {
+      "id": 1,
+      "title": "test"
+    }
+  ],
+  "two": {
+    "test": "another test"
+  }
 }
